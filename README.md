@@ -1,1 +1,4 @@
-# empresaViaje
+
+TRABAJO DE PROGRAMACION ORIENTADA A OBJETOS  (materia IPOO) Universidad Nacional del comahue, facultad de informatica (FAI)
+
+Este proyecto tiene como objetivo principal proporcionar una experiencia práctica en el funcionamiento básico de la integración entre una base de datos y un software o aplicación web. Está diseñado para que cualquier usuario pueda interactuar a través de una interfaz intuitiva, aprendiendo cómo se gestionan y manipulan datos empresariales como empresas, viajes y pasajeros. Utilizando un sistema ORM desarrollado en PHP, se asegura una conexión eficiente y segura con la base de datos subyacente, facilitando la carga, modificación y eliminación de información de manera organizada. Este enfoque permite adquirir conocimientos fundamentales sobre cómo se estructura y opera la interacción entre software y bases de datos en entornos reales de desarrollo y gestión empresarial.
